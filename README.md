@@ -4,6 +4,8 @@
 
 A GitHub action to create a repository dispatch event.
 
+## This is a copy - all rights belong to Peter Evans under the MIT copyright described further here
+
 ## Usage
 
 ```yml
